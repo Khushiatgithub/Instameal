@@ -1,6 +1,10 @@
-# demo
+#Instameal
 
-A new Flutter project.
+InstaMeal is a smart and intuitive mobile app that helps you instantly discover what you can cook using just the ingredients you have at home. Powered by a machine learning model, the app predicts suitable recipes based on your input, making it easy to plan meals without the guesswork.
+
+Whether you’re low on groceries, trying to reduce food waste, or simply unsure what to cook, InstaMeal has you covered. Just enter a list of ingredients like "egg, tomato, onion" — and let InstaMeal suggest a dish you can make right away!
+
+
 
 ## Getting Started
 
